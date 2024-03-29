@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.radial-progress
+{
+    z-index: 0;
+}
